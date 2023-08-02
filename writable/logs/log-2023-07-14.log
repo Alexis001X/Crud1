@@ -1,0 +1,88 @@
+CRITICAL - 2023-07-14 17:05:35 --> Undefined array key "descripcion_prod"
+in APPPATH\Views\welcome_message.php on line 43.
+ 1 APPPATH\Views\welcome_message.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripcion_prod"', 'C:\\xampp\\htdocs\\crudtienda\\app\\Views\\welcome_message.php', 43)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\crudtienda\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\C_productos.php(11): view('welcome_message', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\C_productos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_productos))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-14 17:07:44 --> Undefined array key "descripcion_prod"
+in APPPATH\Views\welcome_message.php on line 43.
+ 1 APPPATH\Views\welcome_message.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripcion_prod"', 'C:\\xampp\\htdocs\\crudtienda\\app\\Views\\welcome_message.php', 43)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\crudtienda\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\C_productos.php(11): view('welcome_message', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\C_productos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_productos))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-14 17:07:45 --> Undefined array key "descripcion_prod"
+in APPPATH\Views\welcome_message.php on line 43.
+ 1 APPPATH\Views\welcome_message.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripcion_prod"', 'C:\\xampp\\htdocs\\crudtienda\\app\\Views\\welcome_message.php', 43)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\crudtienda\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\C_productos.php(11): view('welcome_message', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\C_productos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_productos))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-14 17:07:45 --> Undefined array key "descripcion_prod"
+in APPPATH\Views\welcome_message.php on line 43.
+ 1 APPPATH\Views\welcome_message.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripcion_prod"', 'C:\\xampp\\htdocs\\crudtienda\\app\\Views\\welcome_message.php', 43)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\crudtienda\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\C_productos.php(11): view('welcome_message', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\C_productos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_productos))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-14 17:07:48 --> Undefined array key "descripcion_prod"
+in APPPATH\Views\welcome_message.php on line 43.
+ 1 APPPATH\Views\welcome_message.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripcion_prod"', 'C:\\xampp\\htdocs\\crudtienda\\app\\Views\\welcome_message.php', 43)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\crudtienda\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\C_productos.php(11): view('welcome_message', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\C_productos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_productos))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-14 17:07:48 --> Undefined array key "descripcion_prod"
+in APPPATH\Views\welcome_message.php on line 43.
+ 1 APPPATH\Views\welcome_message.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripcion_prod"', 'C:\\xampp\\htdocs\\crudtienda\\app\\Views\\welcome_message.php', 43)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\crudtienda\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\C_productos.php(11): view('welcome_message', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\C_productos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_productos))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-14 17:07:48 --> Undefined array key "descripcion_prod"
+in APPPATH\Views\welcome_message.php on line 43.
+ 1 APPPATH\Views\welcome_message.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripcion_prod"', 'C:\\xampp\\htdocs\\crudtienda\\app\\Views\\welcome_message.php', 43)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\crudtienda\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\C_productos.php(11): view('welcome_message', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\C_productos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_productos))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-14 17:08:13 --> Undefined array key "descripcion_prod"
+in APPPATH\Views\welcome_message.php on line 43.
+ 1 APPPATH\Views\welcome_message.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripcion_prod"', 'C:\\xampp\\htdocs\\crudtienda\\app\\Views\\welcome_message.php', 43)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\crudtienda\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\C_productos.php(11): view('welcome_message', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\C_productos->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_productos))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
