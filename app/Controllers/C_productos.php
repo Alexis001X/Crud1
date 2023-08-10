@@ -27,6 +27,8 @@ class C_productos extends Controller{
            'descrip_prod' => $_POST['descripcion'],
            'precio_prod' => $_POST['precio']
        ];
+       // considera que aqui colocamos los nombres que estan en la base de datos primero y luego de donde vienen
+       //los datos en este caso del formulario
 
        $prod->insert($data);
        return redirect()->to(base_url('tienda/lista'));   
