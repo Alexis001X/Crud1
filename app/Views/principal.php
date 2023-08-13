@@ -15,24 +15,25 @@
         /* Estilos para las cajas */
         .box {
             text-align: center;
-            padding: 20px;
+            padding: 10px;
             border-color: black;
             border-style:ridge;
-            border-radius: 14px;
+            border-radius: 12px;
+           margin-bottom: 20px;
         }
         /* Estilos para el pie de página */
         footer {
             background-color: #f8f9fa;
             padding: 20px;
-            text-align: center;
+            text-align:justify;
         }
         .img-container {
-        width: 150px; /* Ajusta el tamaño según tus necesidades */
-        height: 150px; /* Ajusta el tamaño según tus necesidades */
+        width: 120px; /* Ajusta el tamaño según tus necesidades */
+        height: 120px; /* Ajusta el tamaño según tus necesidades */
         overflow: hidden;
         border-radius: 50%;
-        display: flex;
-        justify-content: center;
+        display:inline-flex;
+        justify-content:center;
         align-items: center;
       }
 
@@ -114,7 +115,7 @@
         </div>
         <h3>Revision de clientes</h3>
         <p>Revisa y maneja el registro de los clientes y sus compras</p>
-        <button class="btn btn-primary">Revisar</button>
+        <button class="btn btn-primary"><a href="<?=site_url('clientes/lista2') ?>">Revisar</button>
     </div>
 </div>
 

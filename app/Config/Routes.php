@@ -36,6 +36,12 @@ $routes->post('tienda/insertar','c_productos::insertar');
 $routes->get('/eliminar/(:num)', 'c_productos::eliminar/$1');
 $routes->get('/editar/(:num)', 'c_productos::editar/$1');
 $routes->post('/actualizar', 'c_productos::actualizar');
+$routes->get('clientes/lista2','c_clientes::listarc');
+$routes->get('clientes/agregar2','c_clientes::agregarc');
+$routes->post('clientes/insertarc','c_clientes::insertarc');
+$routes->get('/eliminarc/(:num)', 'c_clientes::eliminarc/$1');
+$routes->get('/editarc/(:num)', 'c_clientes::editarc/$1');
+$routes->post('/actualizarc', 'c_clientes::actualizarc');
 /*
  * --------------------------------------------------------------------
  * Additional Routing

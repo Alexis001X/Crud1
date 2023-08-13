@@ -1,0 +1,58 @@
+CRITICAL - 2023-08-13 17:20:48 --> Undefined variable $prod
+in APPPATH\Views\clientes\lista2.php on line 38.
+ 1 APPPATH\Views\clientes\lista2.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $prod', 'C:\\xampp\\htdocs\\crudtienda\\app\\Views\\clientes\\lista2.php', 38)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\crudtienda\\app\\Views\\clientes\\lista2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('clientes/lista2', [], true)
+ 5 APPPATH\Controllers\C_clientes.php(11): view('clientes/lista2', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\C_clientes->listarc()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_clientes))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-13 18:18:36 --> Invalid file: "actualizandoc.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('actualizandoc.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('actualizandoc', [], true)
+ 3 APPPATH\Controllers\C_clientes.php(53): view('actualizandoc', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\C_clientes->editarc('1')
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_clientes))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-13 18:21:24 --> Invalid file: "actualizandoc.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('actualizandoc.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('actualizandoc', [], true)
+ 3 APPPATH\Controllers\C_clientes.php(53): view('actualizandoc', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\C_clientes->editarc('1')
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_clientes))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-13 18:22:51 --> Invalid file: "actualizandoc.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('actualizandoc.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('actualizandoc', [], true)
+ 3 APPPATH\Controllers\C_clientes.php(53): view('actualizandoc', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\C_clientes->editarc('1')
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_clientes))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-13 18:31:06 --> Invalid file: "actualizando2.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('actualizando2.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('actualizando2', [], true)
+ 3 APPPATH\Controllers\C_clientes.php(53): view('actualizando2', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\C_clientes->editarc('1')
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_clientes))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-13 18:31:45 --> Undefined variable $productos
+in APPPATH\Views\clientes\actualizando2.php on line 19.
+ 1 APPPATH\Views\clientes\actualizando2.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\crudtienda\\app\\Views\\clientes\\actualizando2.php', 19)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\crudtienda\\app\\Views\\clientes\\actualizando2.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('clientes/actualizando2', [], true)
+ 5 APPPATH\Controllers\C_clientes.php(53): view('clientes/actualizando2', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\C_clientes->editarc('1')
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_clientes))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
